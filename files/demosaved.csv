@@ -1,0 +1,8 @@
+firstname,lastname,DOB,gender,department,province_id,district,branch,cell
+John,John,Doe,Doe,0000-00-00,0000-00-00,Male,Male,youth,youth,1,1,dist1,dist1,branch1,branch1,cellA,cellA
+John,John,Doe001,Doe001,0000-00-00,0000-00-00,Female,Female,men,men,6,6,dist1,dist1,branch3,branch3,cellC,cellC
+John,John,Doe09,Doe09,2018-07-11,2018-07-11,Male,Male,youth,youth,1,1,dist1,dist1,branch1,branch1,cellA,cellA
+John,John,Doe1,Doe1,2019-10-30,2019-10-30,Male,Male,youth,youth,3,3,dist1,dist1,branch1,branch1,cellA,cellA
+John,John,Doe5,Doe5,2019-10-30,2019-10-30,Female,Female,youth,youth,9,9,dist1,dist1,branch1,branch1,cellA,cellA
+John,John,Doe12,Doe12,2019-10-30,2019-10-30,Female,Female,youth,youth,5,5,dist1,dist1,branch1,branch1,cellA,cellA
+John,John,Doe45,Doe45,2019-10-30,2019-10-30,Male,Male,youth,youth,6,6,dist4,dist4,branch3,branch3,cellD,cellD
